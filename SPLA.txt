@@ -1,0 +1,38 @@
+Service Provider License Agreement ("SPLA")
+===========================================
+
+All rights reserved.
+
+Advertising and marketing
+-------------------------
+
+As a user of your service I will not tolerate advertising or marketing material in any form.
+This includes but is not limited to:
+
+  1) HTTP/HTML/CSS/JavaScript or other public-interfacing internet technologies
+  2) Email communications
+  3) Telephony communications
+  4) Physical communications
+  5) Any form of digital, electrical, physical, or quantum communication
+
+I reserve my right to deny all violations of this policy using any technology available to me.
+
+
+Data Collection and Sale
+------------------------
+
+Data collection for purposes beyond any functional requirement for any service offering must be reported.
+No transfer of collected data may occur to any entity outside of the collecting organization unless it is a functional requirement.
+
+Sale of collected data is subject to following conditions:
+
+  1) Notice of the sale, nature of the sale, terms of the sale, and entities involved must be disclosed
+  2) A revenue-sharing agreement must be signed under satisfactory payment terms
+
+Violations of this policy constitute a breach of trust.
+Any prior covenants will no longer honored until good faith efforts are made for reconciliation in the form of:
+
+  1) Direct cash (or equivalent) payment
+  2) The provision of goods, services, or other resources as desired
+
+All amounts and terms must be settled to my satisfaction.
